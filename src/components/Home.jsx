@@ -17,7 +17,7 @@ const Home = () => {
         </main>
       </div>
 
-      <div className="services" id="services">
+      <div className="home2" >
         <img src={vg} alt="plane" />
         {/* <div className='aboutContent'> */}
         <p>
